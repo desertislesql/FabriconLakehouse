@@ -13,14 +13,15 @@ Lakehouse from beginning to end
 *	Process Description
 *	Workspace Organization
 *	Component organization
-#### Loading Data into a Lakehouse
+#### LUsing Data Pipelines to load data
 *	Using the copy command
 *	Shortcuts
 *	Data Exploration in the Lakehouse with SSMS and Azure Data Studio
-#### Implementing optimal Lakehouse design
-*	Dimensional modeling 
-*	Transforming data with Pyspark and Spark SQL
+#### Data Transformation
 *	Data flow Gen2
+#### Incorporating Spark in Lakehouses
+* Data Wrangler 
+*	Transforming data with Pyspark and Spark SQL
 #### Using a Fabric Lakehouse
 *	Power BI Direct Lake 
 *	Loading data to a Data Warehouse
