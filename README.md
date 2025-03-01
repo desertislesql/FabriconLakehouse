@@ -13,7 +13,7 @@ Lakehouse from beginning to end
 *	Process Description
 *	Workspace Organization
 *	Component organization
-#### LUsing Data Pipelines to load data
+#### Using Data Pipelines to load data
 *	Using the copy command
 *	Shortcuts
 *	Data Exploration in the Lakehouse with SSMS and Azure Data Studio
